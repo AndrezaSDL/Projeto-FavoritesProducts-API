@@ -29,7 +29,7 @@ https://localhost:44347/swagger
 
 Exemplo:
 
-![Collection_API](https://github.com/AndrezaSDL/Projeto-FavoritesProducts-API/blob/master/_files/20210720_111609.gif)
+![Collection_API](https://github.com/AndrezaSDL/Projeto-FavoritesProducts-API/blob/main/_files/20210720_111609.gif)
 
 Teste da API
 -------------
