@@ -1,6 +1,6 @@
 # Projeto-FavoritesProductsAPI
 
-![alt text](https://github.com/AndrezaSDL/Projeto-FavoritesProductsAPI/blob/master/_files/kisspng-computer-icons.jpg)
+![alt text](https://github.com/AndrezaSDL/Projeto-FavoritesProducts-API/blob/master/_files/kisspng-computer-icons.jpg)
 
 # Projeto-PostTwitter
 ---------------------
@@ -29,17 +29,17 @@ https://localhost:44347/swagger
 
 Exemplo:
 
-![Collection_API](https://github.com/AndrezaSDL/Projeto-FavoritesProductsAPI/blob/master/_files/20210720_111609.gif)
+![Collection_API](https://github.com/AndrezaSDL/Projeto-FavoritesProducts-API/blob/master/_files/20210720_111609.gif)
 
 Teste da API
 -------------
 
 Você poderá solicitar as requisições e vizualizar os recursos pelo Postman.
 
-![alt text](https://github.com/AndrezaSDL/Projeto-FavoritesProductsAPI/blob/master/_files/20210720_112909.gif)
+![alt text](https://github.com/AndrezaSDL/Projeto-FavoritesProducts-API/blob/master/_files/20210720_112909.gif)
 
 Segue abaixo a collection pronta para consumo
-<a href="https://github.com/AndrezaSDL/Projeto-FavoritesProductsAPI/blob/master/_files/products-favorites-api.postman_collection.json" download="FILENAME">TITLE</a>
+<a href="https://github.com/AndrezaSDL/Projeto-FavoritesProducts-API/blob/master/_files/products-favorites-api.postman_collection.json" download="FILENAME">TITLE</a>
 
 ## Autenticação e Autorização Jwt
 
