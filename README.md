@@ -2,7 +2,6 @@
 
 ![alt text](https://github.com/AndrezaSDL/Projeto-FavoritesProducts-API/blob/main/_files/kisspng-computer-icons.jpg)
 
-# Projeto-PostTwitter
 ---------------------
    
  * Introdução
